@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://compat-inspector.ru" version="1.0" viewmodes="minimized" >
+  <name>Microsoft Compat Inspector</name>
+  <description>Compat Inspector is a JavaScript-based testing tool that analyzes your site while it runs.</description>
+  <author>AZ</author>
+  <preference name="enable" value="false"/>
+  <icon src="icon32.png"/>
+</widget>
